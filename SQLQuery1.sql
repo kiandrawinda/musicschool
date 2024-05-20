@@ -1,0 +1,1 @@
+﻿SELECT * FROM FeesTable WHERE FAmount IS NOT NULL;
